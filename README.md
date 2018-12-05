@@ -1,6 +1,6 @@
 # Digital-Networks
 
-#Steven Perrin
+# Steven Perrin
 
 # This tutorial is a brief description on setting static IP addresses for devices.
 
